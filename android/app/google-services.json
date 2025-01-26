@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21360190339",
+    "project_id": "absensi-siswa-325ec",
+    "storage_bucket": "absensi-siswa-325ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21360190339:android:b926adaca93b35b0e10cb6",
+        "android_client_info": {
+          "package_name": "com.example.absen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaM_XO36oV9Aeiu5c41Yru4W46nglCllE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
